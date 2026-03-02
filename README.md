@@ -4,7 +4,7 @@ I'm Francisco Flores, a aerospace student at the University of Washington.
 
 My research focus is in controls and in my github, you can find some of the projects that I have worked on. 
 
-If you would like to know more about hardware design, you can visit my website [https://www.ciscoscontrol.com/](url).
+If you would like to know more about hardware design, you can visit my website [www.ciscoscontrol.com](https://www.ciscoscontrol.com/).
 <!--
 **CiscosControl/CiscosControl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
